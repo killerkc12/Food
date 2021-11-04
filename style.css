@@ -246,6 +246,9 @@ section {
 
 .testimonials {
     /* background-image: url(https://killerkc12.github.io/images/bg2.jpg); */
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
     background: url(./images/bg2.jpg);
     background-size: cover;
 }
