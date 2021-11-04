@@ -249,7 +249,7 @@ section {
     position: relative;
     width: 100%;
     min-height: 100vh;
-    background: url(./images/bg2.jpg);
+    background: rgb(10, 4, 22);
     background-size: cover;
 }
 
